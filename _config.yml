@@ -5,3 +5,5 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 permalink: /song/:title
 # Build settings
 markdown: kramdown
+kramdown: 
+  input: GFM
