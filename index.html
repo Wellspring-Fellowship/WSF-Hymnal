@@ -13,7 +13,7 @@ layout: default
     <tr>
       <th>#</th>
       <th>Song Title</th>
-      <th>Writer</th>
+      <th class="hidden-xs">Writer</th>
     </tr>
   </thead>
   {% assign posts = site.posts | sort:'song' %}
@@ -23,7 +23,7 @@ layout: default
         <tr>
           <td class="col-xs-1">{{ post.song }}</td>
           <td class="col-xs-9"><a class="form-control song-title" data-toggle="modal" data-target="#myModal{{ post.song }}" data-remote="true" href="{{ post.url }}">{{ post.title }}</a></td>
-          <td class="col-xs-2">{% if post.writer %}<a class="form-control song-title" data-toggle="modal" data-target="#myModal{{ post.writer | slugify }}" data-remote="true" >{{ post.writer }}{% endif %}</a></td></td>
+          <td class="hidden-xs col-xs-2">{% if post.writer %}<a class="form-control song-title" data-toggle="modal" data-target="#myModal{{ post.writer | slugify }}" data-remote="true" >{{ post.writer }}{% endif %}</a></td></td>
         </tr>
   {% endunless %}
   {% endfor %}
