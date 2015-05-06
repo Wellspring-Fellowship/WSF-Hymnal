@@ -1,0 +1,19 @@
+  <script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+  <script type="text/javascript">
+      $(document).ready(ajustamodal);
+      $(window).resize(ajustamodal);
+
+      function ajustamodal() {
+          var altura = $(window).height() - 155; //value corresponding to the modal heading + footer
+          $(".ativa-scroll").css({"height": altura, "overflow-y": "auto"});
+      }
+
+      $("#myModal").on("show", function () {
+          $("body").addClass("modal-open");
+      }).on("hidden", function () {
+          $("body").removeClass("modal-open")
+      });
+
+  </script>

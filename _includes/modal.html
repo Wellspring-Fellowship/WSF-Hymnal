@@ -1,0 +1,18 @@
+{% for post in site.posts %}
+<div class="modal fade" id="myModal{{ post.song }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h3 class="modal-heading"><p id=\"song_title\" class=\"text-left\">{{post.title }}</p> <h4 class=\"text-left\">{{ post.song }}</h4></h3>
+      </div>
+      <div class="modal-body">{{ post.content }}
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+  <div class="clear"></div>
+</div>
+{% endfor %}
