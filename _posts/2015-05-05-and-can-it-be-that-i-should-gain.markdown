@@ -3,6 +3,7 @@ layout: post
 title: "And Can It Be That I Should Gain?"
 date: 2015-05-05T11:25:32-05:00
 song: "JJ"
+writer: "Charles Wesley"
 ---
 
 And can it be that I should gain
