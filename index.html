@@ -18,13 +18,12 @@ layout: default
   </thead>
   {% assign posts = site.posts | sort:'song' %}
   {% for post in posts %}
-  {% assign writer = {{ post.writer | camelcase }} %}
   {% unless post.author %}
     <tbody>
         <tr>
           <td class="col-xs-1">{{ post.song }}</td>
           <td class="col-xs-9"><a class="form-control song-title" data-toggle="modal" data-target="#myModal{{ post.song }}" data-remote="true" href="{{ post.url }}">{{ post.title }}</a></td>
-          <td class="col-xs-2"><a class="form-control song-title" data-toggle="modal" data-target="#myModal{{ writer }}" data-remote="true" >{{ post.writer }}</a></td></td>
+          <td class="col-xs-2">{% if post.writer %}<a class="form-control song-title" data-toggle="modal" data-target="#myModal{{ post.writer | slugify }}" data-remote="true" >{{ post.writer }}{% endif %}</a></td></td>
         </tr>
   {% endunless %}
   {% endfor %}
