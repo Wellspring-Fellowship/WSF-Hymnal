@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Trust and obey"
+date: 2015-05-09T13:40:02-05:00
+song: "42"
+---
+When we walk with the Lord in the light of His Word,
+What a glory He sheds on our way!
+While we do His good will, He abides with us still,
+And with all who will trust and obey.
+
+Refrain:
+Trust and obey, for there’s no other way
+To be happy in Jesus, but to trust and obey.
+
+Not a burden we bear, not a sorrow we share,
+But our toil He doth richly repay;
+Not a grief or a loss, not a frown or a cross,
+But is blessed if we trust and obey.
+
+Refrain:
+Trust and obey, for there’s no other way
+To be happy in Jesus, but to trust and obey.
+
+But we never can prove the delights of His love
+Until all on the altar we lay;
+For the favor He shows, and the joy He bestows,
+Are for them who will trust and obey.
+
+Refrain:
+Trust and obey, for there’s no other way
+To be happy in Jesus, but to trust and obey.
+
+Then in fellowship sweet we will sit at His feet.
+Or we’ll walk by His side in the way.
+What He says we will do, where He sends we will go;
+Never fear, only trust and obey.
+
+Refrain:
+Trust and obey, for there’s no other way
+To be happy in Jesus, but to trust and obey.
