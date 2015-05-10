@@ -1,0 +1,46 @@
+---
+layout: post
+title: "The Solid Rock"
+date: 2015-05-09T13:40:02-05:00
+song: "8"
+---
+
+My hope is built on nothing less
+Than Jesus' blood and righteousness
+I dare not trust the sweetest frame
+But wholly lean on Jesus' name
+
+Refrain:
+On Christ the solid rock I stand,
+All other ground is sinking sand.
+All other ground is sinking sand.
+
+When darkness veils His lovely face,
+I rest on His unchanging grace.
+In every high and stormy gale,
+My anchor holds within the veil.
+
+Refrain:
+On Christ the solid rock I stand,
+All other ground is sinking sand.
+All other ground is sinking sand.
+
+His oath, His covenant, His blood,
+Support me in the whelming flood.
+When all around my soul gives way,
+He then is all my hope and stay.
+
+Refrain:
+On Christ the solid rock I stand,
+All other ground is sinking sand.
+All other ground is sinking sand.
+
+When He shall come with trumpet sound,
+O may I then in Him be found.
+Dressed in His righteousness alone,
+Faultless to stand before the throne.
+
+Refrain:
+On Christ the solid rock I stand,
+All other ground is sinking sand.
+All other ground is sinking sand.

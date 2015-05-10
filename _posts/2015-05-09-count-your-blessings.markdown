@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Count your blessings"
+date: 2015-05-09T13:40:02-05:00
+song: "51"
+---
+When upon life’s billows you are tempest tossed,
+When you are discouraged, thinking all is lost,
+Count your many blessings, name them one by one,
+And it will surprise you what the Lord hath done.
+
+Refrain:
+Count your blessings, name them one by one,
+Count your blessings, see what God hath done!
+Count your blessings, name them one by one,
+And it will surprise you what the Lord hath done.
+
+Are you ever burdened with a load of care?
+Does the cross seem heavy you are called to bear?
+Count your many blessings, every doubt will fly,
+And you will keep singing as the days go by.
+
+Refrain:
+Count your blessings, name them one by one,
+Count your blessings, see what God hath done!
+Count your blessings, name them one by one,
+And it will surprise you what the Lord hath done.
+
+When you look at others with their lands and gold,
+Think that Christ has promised you His wealth untold;
+Count your many blessings. Money can not buy
+Your reward in heaven, nor your home on high.
+
+Refrain:
+Count your blessings, name them one by one,
+Count your blessings, see what God hath done!
+Count your blessings, name them one by one,
+And it will surprise you what the Lord hath done.
+
+So, amid the conflict whether great or small,
+Do not be discouraged, God is over all;
+Count your many blessings, angels will attend,
+Help and comfort give you to your journey’s end.
+
+Refrain:
+Count your blessings, name them one by one,
+Count your blessings, see what God hath done!
+Count your blessings, name them one by one,
+And it will surprise you what the Lord hath done.
