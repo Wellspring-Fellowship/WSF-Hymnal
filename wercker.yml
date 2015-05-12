@@ -8,7 +8,7 @@ deploy:
   steps:
     - script:
       name: create a deploy.yml for Octopress
-      code: echo $OCTOPRESS_DEPLOY_YML > _deploy.yml
+      code: echo $OCTOPRESS_DEPLOY_YML > /pipeline/source/_deploy.yml
 
     - script:
       name: Octopress Deploy
