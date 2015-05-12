@@ -1,0 +1,15 @@
+box: donniewest/octopress
+build: 
+  steps:
+    - script:
+      name: Jekyll Build
+      code: jekyll build
+deploy:
+  steps:
+    - script:
+      name: Grab SSH key
+      code: mkdir ~/.ssh && echo $WECKER_PRIVATE > ~/.ssh/id_rsa
+
+    - script:
+      name: Octopress Deploy
+      code: jekyll build && octopress deploy
