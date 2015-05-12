@@ -7,8 +7,8 @@ build:
 deploy:
   steps:
     - script:
-      name: Grab SSH key
-      code: mkdir ~/.ssh && echo $WECKER_PRIVATE > ~/.ssh/id_rsa
+      name: create a deploy.yml for Octopress
+      code: echo $OCTOPRESS_DEPLOY_YML > _deploy.yml
 
     - script:
       name: Octopress Deploy
