@@ -2,7 +2,7 @@
 layout: post
 title: "The Old Rugged Cross"
 date: 2015-05-09T13:40:02-05:00
-song: "7"
+song: "07"
 ---
 
 On a hill far away stood an old rugged cross,

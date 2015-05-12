@@ -2,7 +2,7 @@
 layout: post
 title: "The Solid Rock"
 date: 2015-05-09T13:40:02-05:00
-song: "8"
+song: "08"
 ---
 
 My hope is built on nothing less

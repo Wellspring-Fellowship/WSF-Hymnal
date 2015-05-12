@@ -2,7 +2,7 @@
 layout: post
 title: "Wonderful words of life"
 date: 2015-05-06T14:48:44-05:00
-song: "5"
+song: "05"
 ---
 
 Sing them over again to me,

@@ -2,7 +2,7 @@
 layout: post
 title: "How great is our God"
 date: 2015-05-06T14:48:44-05:00
-song: "4"
+song: "04"
 ---
 
 The splendor of a king
