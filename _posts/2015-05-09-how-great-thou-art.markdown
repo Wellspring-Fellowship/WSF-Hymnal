@@ -2,7 +2,7 @@
 layout: post
 title: "How Great Thou Art"
 date: 2015-05-09T13:40:02-05:00
-song: "6"
+song: "06"
 ---
 
 O Lord my God! When I in awesome wonder
