@@ -2,7 +2,7 @@
 layout: post
 title: "AND CAN IT BE THAT I SHOULD GAIN?"
 date: 2015-05-09T13:40:02-05:00
-song: "70"
+song: "71"
 writer: "Charles Wesley"
 ---
 And can it be that I should gain

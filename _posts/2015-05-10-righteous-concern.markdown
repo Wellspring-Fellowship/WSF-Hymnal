@@ -2,7 +2,7 @@
 layout: post
 title: "Righteous Concern"
 date: 2015-05-05T13:40:02-05:00
-song: "71"
+song: "70"
 writer: "Robert J Good"
 ---
 Verse 1
