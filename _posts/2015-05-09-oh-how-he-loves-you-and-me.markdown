@@ -2,7 +2,7 @@
 layout: post
 title: "Oh How He Loves You and Me"
 date: 2015-05-09T13:40:02-05:00
-song: "24B"
+song: "24A"
 ---
 
 O how He loves you and me, O how He loves you and me,
