@@ -15,6 +15,7 @@ Tower of refuge and strength;
 Let every breath, all that I am
 Never cease to worship You.
 
+Chorus:
 Shout to the Lord, all the earth,
 Let us sing
 Power and majesty, praise to the King;
@@ -24,9 +25,3 @@ At the sound of Your name.
 I sing for joy at the work of Your hands,
 Forever I'll love You, forever I'll stand,
 Nothing compares to the promise I have in You.
-
-Shout to the Lord, all the earth,
-Let us sing
-Power and majesty, praise to the King;
-Mountains bow down and the seas will roar
-At the sound of Your name.
