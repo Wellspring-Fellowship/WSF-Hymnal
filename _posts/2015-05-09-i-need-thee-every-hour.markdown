@@ -32,7 +32,7 @@ O bless me now, my Savior,
 I come to Thee.
 
 I need Thee every hour; teach me Thy will;
-And Thy rich promises in me fulfill.
+And Thy promises so rich in me fulfill.
 
 Refrain:
 I need Thee, O I need Thee;
@@ -41,7 +41,7 @@ O bless me now, my Savior,
 I come to Thee.
 
 I need Thee every hour, most Holy One;
-O make me Thine indeed, Thou blessèd Son.
+O make me Thine indeed, Thou blessed Son.
 
 Refrain:
 I need Thee, O I need Thee;

@@ -2,7 +2,7 @@
 layout: post
 title: "Wonderful Grace of Jesus"
 date: 2015-05-09T13:40:02-05:00
-song: "24A"
+song: "24B"
 ---
 
 Wonderful grace of Jesus,

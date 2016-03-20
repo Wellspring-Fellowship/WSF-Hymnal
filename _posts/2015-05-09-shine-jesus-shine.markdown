@@ -15,7 +15,7 @@ Refrain
 Shine, Jesus, shine;
 fill this land with the Father’s glory.
 Blaze, Spirit, blaze;
-set out hearts on fire.
+set our hearts on fire.
 Flow, river, flow;
 flood the nations with grace and mercy.
 Send forth Your Word, Lord,
