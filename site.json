@@ -4,7 +4,8 @@ layout: nil
 {
   "songs":
   [
-    {% for post in site.posts %}
+    {% assign songs = site.posts | sort: 'song' %}
+    {% for post in songs %}
       {
         "title": {{ post.title | jsonify }},
         "url"     : {{ post.url | jsonify }},
