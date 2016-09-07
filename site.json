@@ -1,14 +1,16 @@
 ---
 layout: nil
 ---
-
-[
-{% for post in site.posts %}
-  {
-    "title"    : "{{ post.title }}",
-    "url"     : "{{ post.url }}",
-    "song"     : "{{ post.song }}",
-    "content"  : "{{ post.content | escape }}"
-  } {% if forloop.last %}{% else %},{% endif %}
-{% endfor %}
-]
+{
+  "songs":
+  [
+    {% for post in site.posts %}
+      {
+        "title": {{ post.title | jsonify }},
+        "url"     : {{ post.url | jsonify }},
+        "song"     : {{ post.song | jsonify }},
+        "content"  : {{ post.content | jsonify }}
+      } {% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+  ]
+}
